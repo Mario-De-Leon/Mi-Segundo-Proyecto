@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Mi-Segundo-Proyecto/static/css/main.f0010bef.css",
+    "main.js": "/Mi-Segundo-Proyecto/static/js/main.72fe5722.js",
+    "index.html": "/Mi-Segundo-Proyecto/index.html",
+    "main.f0010bef.css.map": "/Mi-Segundo-Proyecto/static/css/main.f0010bef.css.map",
+    "main.72fe5722.js.map": "/Mi-Segundo-Proyecto/static/js/main.72fe5722.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f0010bef.css",
+    "static/js/main.72fe5722.js"
+  ]
+}
